@@ -54,4 +54,7 @@ $ whois -H petyavasya.xyz
 Обзор оферты сервиса, правил регистрации домена (в т.ч. про сокрытие персональных данных) - в [заметке](/home/dt/work/git_projects/BlogContent/WebDev/DomainAdminPrivacy.md)
 
 
+Полезно знать о правилах и сроках отмены регистрации доменного имени. Для reg.ru об этом можно прочитать [здесь](https://help.reg.ru/hc/ru/articles/4408047109777-%D0%9E%D1%88%D0%B8%D0%B1%D0%BE%D1%87%D0%BD%D0%BE-%D0%B7%D0%B0%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BB-%D0%B4%D0%BE%D0%BC%D0%B5%D0%BD-%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE-%D0%BB%D0%B8-%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C).
+
+
 Регистрация производится в несколько простых шагов. У reg.ru на этот счёт есть понятный [гайд](https://help.reg.ru/hc/ru/articles/4408054420753-%D0%9A%D0%B0%D0%BA-%D0%B7%D0%B0%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%B4%D0%BE%D0%BC%D0%B5%D0%BD), делал по нему.
